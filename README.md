@@ -3,7 +3,7 @@
 # 测试方法
 使用软件内置浏览器直接打开 https://fex-team.github.io/ua-device/ ，或者 https://tool.ip138.com/useragent/ ，然后获取浏览器UA。
 
-"M2010J19SC"是测试用的设备之一。
+"M2010J19SC"是测试用的设备之一，安卓10。
 
 #
 #
