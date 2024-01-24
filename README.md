@@ -6,8 +6,7 @@
 "M2010J19SC"是测试用的设备之一，安卓10。
 
 #
-#
-#
+
 
 ## 安卓百度网盘
 netdisk;11.20.10;M2010J19SC;android-android;10;JSbridge4.4.0;jointBridge;1.1.0;
