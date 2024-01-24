@@ -23,3 +23,9 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 
 ## 安卓支付宝
 Mozilla/5.0 (Linux; U; Android 10; zh-CN; M2010J19SC Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 UWS/3.22.2.59 Mobile Safari/537.36 UCBS/3.22.2.59_230213152242 ChannelId(0) NebulaSDK/1.8.100112 Nebula AlipayDefined(nt:4G,ws:393|0|2.75,ac:sp) AliApp(AP/10.5.0.8000) AlipayClient/10.5.0.8000 Language/zh-Hans useStatusBar/true isConcaveScreen/true Region/CNAriver/1.0.0
+
+## Windows QQNT 游戏中心
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) QQ/9.9.6-19527 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36 OS/win32,x64,10.0.19045,Windows 10 Pro
+
+## 腾讯先锋云游戏 - 欢乐斗地主 - 内置浏览器
+Mozilla/5.0 (Linux; Android 9; gamematrix Build/tencent_game_emulator; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 MSDK/3.3.255a QQAPPID/363 WXAPPID/wx76fc280041c16519
